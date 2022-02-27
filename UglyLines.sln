@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyLines.Desktop", "UglyLines\UglyLines.Desktop\UglyLines.Desktop.csproj", "{5F5E7DF2-7646-4E81-8527-9E68BAF7B799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyLines.NetCore", "UglyLines\UglyLines.NetCore\UglyLines.NetCore.csproj", "{0CE5ABFC-C5BD-4520-8D29-46616128C553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5E7DF2-7646-4E81-8527-9E68BAF7B799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5E7DF2-7646-4E81-8527-9E68BAF7B799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5E7DF2-7646-4E81-8527-9E68BAF7B799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5E7DF2-7646-4E81-8527-9E68BAF7B799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE5ABFC-C5BD-4520-8D29-46616128C553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE5ABFC-C5BD-4520-8D29-46616128C553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE5ABFC-C5BD-4520-8D29-46616128C553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE5ABFC-C5BD-4520-8D29-46616128C553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
